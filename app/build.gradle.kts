@@ -8,6 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.test.myapplication"
+        vectorDrawables.useSupportLibrary = true
         minSdk = 24
         targetSdk = 34
         versionCode = 1
